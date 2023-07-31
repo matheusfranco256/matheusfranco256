@@ -26,7 +26,7 @@ Você pode encontrar todos os meus projetos disponíveis no meu repositório do 
 
 Se você quiser entrar em contato comigo, pode me enviar uma mensagem pelo GitHub ou me encontrar nas seguintes redes sociais:
 
-- LinkedIn: [seu_perfil_linkedin]((https://www.linkedin.com/in/matheus-franco-87b547216/))
+- LinkedIn: [https://www.linkedin.com/in/matheus-franco-87b547216/]
 
 ## Agradecimento
 
