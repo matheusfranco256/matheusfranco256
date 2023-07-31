@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá! Sou um desenvolvedor de software especializado em backend e tenho experiência em criar APIs e aplicações em geral usando a linguagem C#. Sou apaixonado por resolver problemas complexos e criar soluções eficientes que impulsionem o desempenho e a usabilidade das aplicações. Meu objetivo é contribuir para projetos que tenham impacto positivo na comunidade de desenvolvimento.
+Olá! Sou um desenvolvedor de software especializado em backend e tenho experiência em criar APIs e aplicações em geral usando a linguagem C#. Sou apaixonado por resolver problemas complexos e criar soluções eficientes que impulsionem o desempenho e a usabilidade das aplicações.
 
 ## Habilidades
 
