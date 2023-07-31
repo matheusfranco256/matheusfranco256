@@ -27,7 +27,4 @@ Você pode encontrar todos os meus projetos disponíveis no meu repositório do 
 Se você quiser entrar em contato comigo, pode me enviar uma mensagem pelo GitHub ou me encontrar nas seguintes redes sociais:
 
 - LinkedIn: [https://www.linkedin.com/in/matheus-franco-87b547216/]
-
-## Agradecimento
-
-Agradeço por visitar meu perfil do GitHub! Sinta-se à vontade para explorar meus projetos e repositórios. Se você encontrar algo útil ou tiver alguma sugestão, fique à vontade para abrir uma issue ou enviar um pull request. Estou sempre buscando aprender e melhorar, e seu feedback é muito bem-vindo. Obrigado!
+- Email: matheus.franco256@gmail.com
