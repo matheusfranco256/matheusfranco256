@@ -1,16 +1,33 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil do GitHub!
 
-<!--
-**matheusfranco256/matheusfranco256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Olá! Sou um desenvolvedor de software especializado em backend e tenho experiência em criar APIs e aplicações em geral usando a linguagem C#. Sou apaixonado por resolver problemas complexos e criar soluções eficientes que impulsionem o desempenho e a usabilidade das aplicações. Meu objetivo é contribuir para projetos que tenham impacto positivo na comunidade de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- Linguagens de programação: C#
+- Tecnologias de backend: .NET Core, ASP.NET Core, Web API
+- Banco de Dados: SQL Server, MySQL, MongoDB
+- Arquitetura de software e padrões de design
+- Integração de APIs de terceiros
+- Desenvolvimento de aplicações web e RESTful
+
+## Projetos
+
+
+1. **Zendays**
+   A API ZenDays é uma aplicação em C# projetada para dar suporte a um aplicativo móvel de controle de férias. Essa API oferece diversos pontos de acesso para gerenciar informações relacionadas a férias, incluindo criação de solicitações de férias, aprovação ou rejeição de solicitações, recuperação do histórico de férias e gerenciamento de contas de usuários..
+
+Você pode encontrar todos os meus projetos disponíveis no meu repositório do GitHub.
+
+
+## Contato
+
+Se você quiser entrar em contato comigo, pode me enviar uma mensagem pelo GitHub ou me encontrar nas seguintes redes sociais:
+
+- LinkedIn: [seu_perfil_linkedin]((https://www.linkedin.com/in/matheus-franco-87b547216/))
+
+## Agradecimento
+
+Agradeço por visitar meu perfil do GitHub! Sinta-se à vontade para explorar meus projetos e repositórios. Se você encontrar algo útil ou tiver alguma sugestão, fique à vontade para abrir uma issue ou enviar um pull request. Estou sempre buscando aprender e melhorar, e seu feedback é muito bem-vindo. Obrigado!
