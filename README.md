@@ -19,8 +19,6 @@ Olá! Sou um desenvolvedor de software especializado em backend e tenho experiê
 1. **Zendays**
    A API ZenDays é uma aplicação em C# projetada para dar suporte a um aplicativo móvel de controle de férias. Essa API oferece diversos pontos de acesso para gerenciar informações relacionadas a férias, incluindo criação de solicitações de férias, aprovação ou rejeição de solicitações, recuperação do histórico de férias e gerenciamento de contas de usuários..
 
-Você pode encontrar todos os meus projetos disponíveis no meu repositório do GitHub.
-
 
 ## Contato
 
